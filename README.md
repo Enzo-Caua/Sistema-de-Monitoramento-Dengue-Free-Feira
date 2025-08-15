@@ -1,4 +1,4 @@
-Este produto foi desenvolvido como avaliação da disciplina MI Algoritmos I – EXA854.
+Este produto foi desenvolvido como avaliação do problema 1 da disciplina MI Algoritimos I - EXA854.
 
 O produto solicitado foi um código para registro, atualização e visualização de dados sobre casos de dengue em diferentes bairros de Feira de Santana, a partir de um arquivo CSV previamente formatado.
 O código permite ao usuário interagir por meio de menus para:
