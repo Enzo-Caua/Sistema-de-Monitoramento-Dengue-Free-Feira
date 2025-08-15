@@ -1,6 +1,8 @@
- Caro Programador, este codigo foi feito para funcionar com um arquivo .csv que 
- tem como cabeçalho(1ªlinha) os seguintes itens: 
- (Data,Bairros,Habitantes,Casos Suspeitos,Casos Negativos,Casos Confirmados)
+Este produto foi desenvolvido como avaliação do problema 2 da disciplina MI Algoritimos I - EXA854.
+
+
+Caro Programador, este codigo foi feito para funcionar com um arquivo .csv que tem como cabeçalho(1ªlinha) os seguintes itens: 
+(Data,Bairros,Habitantes,Casos Suspeitos,Casos Negativos,Casos Confirmados)
  > ATENÇÃO!
 >
 > Não faça alterações de ordem, caso contrario os dados serão exibidos de forma incorreta.
